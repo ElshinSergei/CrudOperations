@@ -32,7 +32,7 @@ public class Student {
                 ", surname='" + surname + '\'' +
                 ", age=" + age +
                 ", phone='" + phone + '\'' +
-                ", email='" + email + "\n";
+                ", email='" + email + "'\n";
     }
 
     public int getId() {
